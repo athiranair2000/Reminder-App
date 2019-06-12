@@ -10,7 +10,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:text="Work"
-        android:textSize="20sp" />
+        android:textSize="40sp" />
 
     <Button
         android:id="@+id/task_delete"

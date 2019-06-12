@@ -2,5 +2,5 @@
 <resources>
 
 
-
+    <item name="reminder_btn" type="id">Remind</item>
 </resources>
